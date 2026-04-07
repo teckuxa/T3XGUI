@@ -2,7 +2,7 @@
 ## T3X is an admin panel for your old ROBLOX clients form 2009L-2013L, tested in all clients mentioned before
 
 # How to use T3X?
-1) Launch LUA file that you doownloaded using notepad
+1) Launch LUA file that you downloaded with notepad ( or any other text editor as Kate, Notepad++, WordPad and others )
 ![Launch LUA file that you doownloaded using notepad](t3x6.png)
 2) Change "Teckuxa" to your name in LUA file that you installed
 ![Change "Teckuxa" to your name in LUA file that you installed](t3x7.png)
