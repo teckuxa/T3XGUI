@@ -10,7 +10,7 @@
 ![Launch your server in whatever client you use ( I use ORRH in this example)](t3x1.png)
 4) Connect to your hosted server
 ![Connect to your hosted server](t3x2.png)
-5) Open studio and navigate to **menu panel ( bar at the top ) -> Tools -> Execute script** amd execute the script you edited
+5) Open studio and navigate to **menu panel ( bar at the top ) -> Tools -> Execute script** and execute the script you edited
 ![Open previously openned ROBLOX Studio and navigate to **menu panel ( bar at the top ) -> Tools -> Execute script** and execute the script you edited](t3x3.png)
 6) Click "OPEN T3X" in the top left of your joined client ( not studio )
 ![Click "OPEN T3X" in the top left of your joined client ( not studio )](t3x4.png)
